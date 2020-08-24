@@ -9,7 +9,7 @@ Given : Application is working, user is signed in, and user clicks settings butt
 
 When : user toggles between on and off button
 
-Then : On music if initially is in off position and viceversa
+Then : On music if initially is in off position and same as in opposite situation
 
 ## Scenario : User wishes to change background theme
 
