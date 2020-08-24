@@ -12,4 +12,4 @@ Given : Application is newly installed on the phone and new user playing
 
 When : user clicks new user register button
 
-Then : trigger "new_user_sign_up" module
+Then : trigger new user module
