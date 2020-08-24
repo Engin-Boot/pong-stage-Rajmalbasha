@@ -1,5 +1,5 @@
 
-# Features : Newgame, Resume, Settings, Statistics, Profile, Logout, Delete account
+# Features : New game, Resume, Settings, Statistics, Profile, Logout, Delete account
 
 ## Acceptance criteria
 
@@ -9,7 +9,7 @@ Given : Application is working, user is signed in
 
 When : user clicks new game button
 
-Then : trigger newgame module
+Then : trigger new game module
 
 ## Scenario : User choose to resume
 
