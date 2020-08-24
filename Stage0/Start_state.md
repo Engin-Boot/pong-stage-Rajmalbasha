@@ -38,7 +38,7 @@ When : update is available and user updates the application
 
 Then : ask the user to enter valid sign in details again
 
-## Scenario : Existed user opening the apllication
+## Scenario : Existed user opening the application
 
 Given : Application is installed and in use for many days
 
