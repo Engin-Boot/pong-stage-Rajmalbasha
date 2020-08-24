@@ -23,7 +23,7 @@ When : user choose option sign in using Gmail
 
 Then : create new user profile using the Gmail
 
-##Scenario : Using exist mail id to create new account
+## Scenario : Using exist mail id to create new account
 
 Given : Application is installed and user is newly registering
 
