@@ -18,8 +18,8 @@ Given : Application is working, user in signed in, and user clicks settings butt
 When :  user clicks background theme
 
 Then : show different background themes and reward points required to apply
-the particular theme. User chooses one theme and is eligible then reduce reward points and
-apply the particular theme
+the particular theme. User chooses one theme and is eligible then reduce
+reward points and apply the particular theme
 
 ## Scenario : User wishes to change pong
 
@@ -27,9 +27,9 @@ Given : Application is working, user in signed in, and user clicks settings butt
 
 When :  user clicks change pong button
 
-Then : show different pongs available and reward points required to obtain particular pong.
-User chooses one pong and is eligible then reduce reward points and
-use the particular pong
+Then : show different pongs available and reward points required to obtain
+particular pong. User chooses one pong and is eligible then reduce reward
+points and use the particular pong
 
 ## Scenario : User wishes to change paddle size
 
