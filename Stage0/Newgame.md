@@ -7,7 +7,7 @@
 
 Given : Application is working, user is signed in, chooses new game
 
-When : user selects newgame
+When : user selects new game
 
 Then : first ask the play time
 
