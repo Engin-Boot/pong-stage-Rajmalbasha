@@ -1,6 +1,5 @@
 
-# Features : change paddle size between prefixed minimum and maximum,
-option to choose between different paddle
+# Features : change paddle size between prefixed minimum and maximum,option to choose between different paddle
 
 ## Scenario : User wishes to change paddle size
 
@@ -38,4 +37,3 @@ to change paddle from settings
 When : user choose particular paddle property
 
 Then : display no sufficient reward points to apply property
-
