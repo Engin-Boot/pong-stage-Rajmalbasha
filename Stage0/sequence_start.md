@@ -1,5 +1,5 @@
 
-# Inter Modular Intraction
+# Inter Modular Interaction
 
 ## Start state module
 
@@ -30,3 +30,15 @@ Upon pressing buttons corresponding module are triggered
 desired time limit and select one among **versus computer**, **second player**.
 Upon choosing second player in previous step user enters second player name and
 it will then trigger **play game module**
+
+## Settings module
+
+* Triggered from **Menu module** upon pressing settings button from menu.
+Features different options like turn on and off music, change board background,
+paddle settings and ball settings.
+
+* Trigger **change ball module** upon pressing ball settings
+
+* Trigger **change paddle module** upon pressing paddle settings
+
+* Trigger **Background module** upon pressing change board background
