@@ -10,7 +10,6 @@ will trigger **new user module**
 
 * Existing user and new installation. Upon entering valid username
 and password load user profile and trigger **Menu module**
-
 * Existing app and already signed in. Just trigger **Menu module** and 
 load signed in users profile
 
