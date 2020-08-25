@@ -1,5 +1,5 @@
 
-# Features : Music on/off, Background theme, change pong, change paddle size
+# Features : Music on/off, Background theme, change ball, change paddle size
 
 ## Acceptance criteria
 
@@ -25,10 +25,10 @@ reward points and apply the particular theme
 
 Given : Application is working, user in signed in, and user clicks settings button
 
-When :  user clicks change pong button
+When :  user clicks change ball button
 
 Then : show different pongs available and reward points required to obtain
-particular pong. User chooses one pong and is eligible then reduce reward
+particular ball. User chooses one pong and is eligible then reduce reward
 points and use the particular pong
 
 ## Scenario : User wishes to change paddle size
