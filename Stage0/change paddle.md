@@ -6,7 +6,7 @@
 Given : Application is working, user is signed in,and wishes
 to change paddle from settings
 
-When : user move paddle size slidder between minimum and maximum
+When : user move paddle size slider between minimum and maximum
 
 Then : apply changes and display on game board
 
