@@ -37,7 +37,7 @@ Then : end the game and declared player with highest score as winner
 
 Given : application is working, user is signed in and playing
 
-When : ball doesn't touch the oppnents paddle
+When : ball doesn't touch the opponent paddle
 
 Then : Increment the player point by 1
 
