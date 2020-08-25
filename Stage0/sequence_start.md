@@ -42,3 +42,5 @@ paddle settings and ball settings.
 * Trigger **change paddle module** upon pressing paddle settings
 
 * Trigger **Background module** upon pressing change board background
+
+***Each module has option to go back to module from were it is triggered***
