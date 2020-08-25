@@ -1,5 +1,5 @@
 
-# Features : change paddle size between prefixed minimum and maximum,option to choose between different paddle
+# Features : paddle size and different paddles
 
 ## Scenario : User wishes to change paddle size
 
