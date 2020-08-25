@@ -15,27 +15,23 @@ Then : On music if initially is in off position and same as in opposite situatio
 
 Given : Application is working, user in signed in, and user clicks settings button
 
-When :  user clicks background theme
+When :  user clicks background theme button
 
-Then : show different background themes and reward points required to apply
-the particular theme. User chooses one theme and is eligible then reduce
-reward points and apply the particular theme
+Then : trigger background theme module
 
-## Scenario : User wishes to change pong
+## Scenario : User wishes to change ball properties
 
 Given : Application is working, user in signed in, and user clicks settings button
 
 When :  user clicks change ball button
 
-Then : show different pongs available and reward points required to obtain
-particular ball. User chooses one pong and is eligible then reduce reward
-points and use the particular pong
+Then : Trigger change ball module
 
 ## Scenario : User wishes to change paddle size
 
 Given : Application is working, user in signed in, and user clicks settings button
 ,minimum and maximum paddle size are fixed
 
-When : user clicks change paddle size and change the paddle size slider
+When : user clicks change paddle button
 
-Then : change the paddle size and use the new paddle
+Then : trigger change paddle module
