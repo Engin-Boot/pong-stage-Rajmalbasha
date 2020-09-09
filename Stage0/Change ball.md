@@ -6,7 +6,7 @@
 Given : Application is working, user is signed in,and wishes
 to change ball from settings
 
-When : user selects to change ball properties
+When : user selects to change ball
 
 Then : Check reward points and see user is eligible or not
 
